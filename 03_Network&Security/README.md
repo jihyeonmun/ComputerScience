@@ -1,3 +1,3 @@
 # ComputerScience
 
-[괜찮은 링크 - 기술노트](https://youtu.be/65h9uxHKGPk)
+[전체 출처](https://github.com/eliotjang/CSE_Network_Security_Lecture)
