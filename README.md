@@ -1,5 +1,7 @@
 # ComputerScience
 
+[요약본 출처](https://github.com/Prev/CSE-Summary)
+
 # 컴퓨터과학 스스로 학습하기
 
 원문 : **[Teach Yourself Computer Science](https://teachyourselfcs.com/)**
